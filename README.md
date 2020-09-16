@@ -10,12 +10,8 @@ It is suggested to run this on a multicore cluster or workstation because it uti
 
 
 1. Mol 1
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="x.mp4" type="video/mp4">
-  </video>
-</figure>
+ezgif-5-921e8fa10bbd.gif
+![Alt Text](ezgif-5-921e8fa10bbd.gif)
 
 
 ## Required Files
