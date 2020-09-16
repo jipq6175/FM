@@ -10,8 +10,13 @@ It is suggested to run this on a multicore cluster or workstation because it uti
 
 
 1. Mol 1
-ezgif-5-921e8fa10bbd.gif
+
 ![Alt Text](ezgif-5-921e8fa10bbd.gif)
+
+2. Mol 2
+
+![Alt Text](ezgif-5-36cb4ce28fe1.gif)
+
 
 
 ## Required Files
