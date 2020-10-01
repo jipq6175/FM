@@ -19,10 +19,7 @@ It is suggested to run this on a multicore cluster or workstation because it uti
 
 
 
-## Required Files
 
-1. DENSS output: `.mrc` file
-2. Three-column experimental data: `.dat` file
 
 
 ## Required Packages
